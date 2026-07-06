@@ -1,0 +1,7 @@
+{
+  "id": "chat-file-enhance-live",
+  "name": "聊天文件增强-实时修改",
+  "content": "import 'http://127.0.0.1:5500/dist/聊天文件增强/index.js?v=202606080830'",
+  "info": "聊天文件增强: 导入后命名、重命名关系链修复、关系链检查",
+  "buttons": []
+}

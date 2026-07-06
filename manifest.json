@@ -1,0 +1,11 @@
+{
+  "display_name": "聊天文件增强",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "jiozhaoyue",
+  "version": "0.1.0",
+  "homePage": "https://github.com/jiozhaoyue/ST-chatfile-improve",
+  "auto_update": true
+}

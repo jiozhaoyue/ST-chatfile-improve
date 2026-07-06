@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "dist": "dist/聊天文件增强/index.js",
+  "outputDirectory": "release/ST-chatfile-improve",
+  "fileBaseName": "聊天文件增强",
+  "remoteUrl": "https://testingcf.jsdelivr.net/gh/jiozhaoyue/ST-chatfile-improve@main/dist/聊天文件增强/index.js",
+  "script": {
+    "type": "script",
+    "enabled": true,
+    "baseName": "聊天文件增强",
+    "id": "chat-file-enhance-live",
+    "info": "聊天文件增强: 导入后命名、重命名关系链修复、关系链检查\n代码仓库：https://github.com/jiozhaoyue/ST-chatfile-improve",
+    "button": {
+      "enabled": true,
+      "buttons": []
+    },
+    "data": {}
+  }
+}
